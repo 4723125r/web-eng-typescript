@@ -1,0 +1,5 @@
+{
+"name": "Web Engineering TypeScript",
+"image": "mcr.microsoft.com/devcontainers/typescript-node:24",
+"postCreateCommand": "corepack enable"
+}
